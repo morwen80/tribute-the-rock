@@ -1,0 +1,13 @@
+body, html {
+    height: 100%;
+    margin: auto;
+}
+
+.header {
+    background-image: url("https://cms.qz.com/wp-content/uploads/2017/05/dwayne-the-rock-johnson-e1494521135322.jpg");
+    height: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
