@@ -38,16 +38,48 @@ body, html {
 }
 
 
-.fa-dumbbell {
+#icons {
+  padding-top: 1rem;
+}
+
+.fa-dumbbell, .fa-star {
   font-size: 4rem;
-  color: grey;
+  color: #4590D1;;
   display: inline-block;
   padding: 1.5rem;
   background-color: white;
   border-radius: 50%;
-
 }
 
 .quality {
+  text-align: center;
+}
 
+.quality p {
+  padding-top: .8rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+#tribute-info {
+  background-color: #F4F4F4;
+  width: 60%;
+  margin: auto;
+  display: inline-block;
+}
+#tribute-info p {
+  font-size: 1rem;
+}
+
+footer {
+  background-color: grey;
+}
+
+footer p {
+  color: #D7D6D6;
+  font-family: 'Poiret One', cursive;
+  font-size: 1.2rem;
+  text-align: center;
+  padding: .8rem;
+  font-weight: 600;
 }
