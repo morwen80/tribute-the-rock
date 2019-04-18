@@ -31,7 +31,7 @@ body, html {
 }
 
 .name2 {
-  font-family: 'Poiret One', cursive;
+  font-family: 'Poiret One';
   text-shadow: 1px 1px 2px #000;
 }
 
@@ -45,7 +45,7 @@ body, html {
 
 .fa-dumbbell, .fa-star, .fa-user-friends {
   font-size: 3rem;
-  color: #4590D1;;
+  color: #4590D1;
   display: inline-block;
   padding: 1.5rem;
   background-color: #fff;
@@ -75,15 +75,14 @@ body, html {
 }
 
 footer {
-  background-color: #bfbdbd;
+  background-color: #a5a4a4;
 }
 
 footer p {
   color: #D7D6D6;
-  font-family: 'Poiret One', cursive;
+  font-family: 'Poiret One';
   font-size: 1.2rem;
   text-align: center;
   padding: .8rem;
   font-weight: 600;
 }
-
