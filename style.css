@@ -27,7 +27,7 @@ body, html {
 .name1 {
   text-transform: capitalize;
   font-weight: 600;
-  text-shadow: 2px 2px 3px black;
+  text-shadow: 2px 2px 3px #000;
   /* background: blue;
   padding: 1rem;
   letter-spacing: .5rem; */
@@ -35,7 +35,7 @@ body, html {
 
 .name2 {
   font-family: 'Poiret One', cursive;
-  text-shadow: 1px 1px 2px black;
+  text-shadow: 1px 1px 2px #000;
 }
 
 #skills  {
@@ -47,11 +47,11 @@ body, html {
 }
 
 .fa-dumbbell, .fa-star, .fa-user-friends {
-  font-size: 4rem;
+  font-size: 3rem;
   color: #4590D1;;
   display: inline-block;
   padding: 1.5rem;
-  background-color: white;
+  background-color: #fff;
   border-radius: 50%;
 }
 
@@ -67,7 +67,6 @@ body, html {
 
 #tribute-info {
   background-color: #F4F4F4;
-  width: 60%;
   margin: auto;
   display: inline-block;
 
@@ -79,7 +78,7 @@ body, html {
 }
 
 footer {
-  background-color: grey;
+  background-color: #bfbdbd;
 }
 
 footer p {
@@ -90,3 +89,4 @@ footer p {
   padding: .8rem;
   font-weight: 600;
 }
+
